@@ -38,7 +38,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: | #
+          tags: |
           rutzinger/raul-profesorpractica-7.1:latest
           ghcr.io/rutzinger97/practica7.1:latest
 
